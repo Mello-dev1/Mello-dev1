@@ -26,23 +26,6 @@
 
 <br>
 
-<!-- skills -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=C9D1D9"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=C9D1D9"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML-21262D?style=flat-square&logo=html5&logoColor=C9D1D9"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS-21262D?style=flat-square&logo=css3&logoColor=C9D1D9"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=C9D1D9"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=C9D1D9"/>
-</div>
-
-<br>
-
 <!-- snake -->
 <div align="center">
   <picture>
